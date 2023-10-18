@@ -10,7 +10,7 @@ This YouTube playlist steps through every stage of the assembly process.
 [3. Arduino Language Reference](https://www.arduino.cc/reference/en/)
 
 [4. Arduino Nano Overview](https://docs.arduino.cc/hardware/nano)
-## pinout
+## Nano Pinout
 ![4. Nano Pinout](nano_pinout.png)
 
 ![](nano_on_board.png)
@@ -20,7 +20,7 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 They produce a wide variety of boards for a wide variety of needs. We will be using the Arduino nano. This is an inexpensive board that is perfect for small projects.
 
 [5. L298N Overview](https://components101.com/modules/l293n-motor-driver-module)
-## pinout
+## L298N Nano Pinout
 ![5. L298N Pinout](L298N-Module-Pinout.jpg)
 
 The L298N is also called an H-Bridge. It is used for 2 reasons.
