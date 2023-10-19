@@ -2,7 +2,7 @@
 Windsor Google DevFest 2023 - High School Track
 ## Arduino Project Development
 
-1. Kit Assembly Instructions
+[1. Kit Assembly Instructions](https://youtube.com/playlist?list=PLiBItcliDLPd2GlCq3_gPH4e9Ii3d9XaE&si=MxE0Q9ForVchJnUR)
 This YouTube playlist steps through every stage of the assembly process.
 
 [2. Download Adruino IDE](https://www.arduino.cc/en/software)
