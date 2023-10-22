@@ -11,9 +11,9 @@ This YouTube playlist steps through every stage of the assembly process.
 
 [4. Arduino Nano Overview](https://docs.arduino.cc/hardware/nano)
 ## Nano Pinout
-![4. Nano Pinout](nano_pinout.png){: .center}
+![4. Nano Pinout](nano_pinout.png)
 
-![](nano_on_board.png =250x435){: .center}
+![](nano_on_board.png =250x435)
 
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects.
 
