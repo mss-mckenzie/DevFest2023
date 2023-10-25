@@ -20,6 +20,7 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 They produce a wide variety of boards for a wide variety of needs. We will be using the Arduino nano. This is an inexpensive board that is perfect for small projects.
 
 [5. L298N Overview](https://components101.com/modules/l293n-motor-driver-module)
+[L298N In Depth](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
 ## L298N Pinout
 ![5. L298N Pinout](L298N-Module-Pinout.jpg)
 
